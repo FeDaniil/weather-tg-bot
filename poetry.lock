@@ -651,14 +651,14 @@ files = [
 
 [[package]]
 name = "choreographer"
-version = "1.0.10"
+version = "1.1.2"
 description = "Devtools Protocol implementation for chrome."
 optional = false
 python-versions = ">=3.8"
 groups = ["bot"]
 files = [
-    {file = "choreographer-1.0.10-py3-none-any.whl", hash = "sha256:b23ec2409f38ec89a544558eadeb19688746bab9a0f47e7115477d6e80a14a41"},
-    {file = "choreographer-1.0.10.tar.gz", hash = "sha256:7adf84a0d6a6054386d5cce013fdcadb2426479e49c9b0cb06af7d3712ed263c"},
+    {file = "choreographer-1.1.2-py3-none-any.whl", hash = "sha256:b410f59c804bae50849f6b5d861713213e5363a257b72c58a122a9e8a0600324"},
+    {file = "choreographer-1.1.2.tar.gz", hash = "sha256:d091ee7bb82bdf27fd4b62937cabf0f5fc87437839ee037b2fb2088b76ffa8ba"},
 ]
 
 [package.dependencies]
@@ -1251,18 +1251,18 @@ i18n = ["Babel (>=2.7)"]
 
 [[package]]
 name = "kaleido"
-version = "1.1.0"
+version = "1.2.0"
 description = "Plotly graph export library"
 optional = false
 python-versions = ">=3.8"
 groups = ["bot"]
 files = [
-    {file = "kaleido-1.1.0-py3-none-any.whl", hash = "sha256:839ed2357b89dd2f93c478960f41c401fe4038d404ae33e2fdbde028c18d7430"},
-    {file = "kaleido-1.1.0.tar.gz", hash = "sha256:5747703a56d4c034efa69abea4a9c2bfe8ef516ba848e0ec485c65b3b0ab52b6"},
+    {file = "kaleido-1.2.0-py3-none-any.whl", hash = "sha256:c27ed82b51df6b923d0e656feac221343a0dbcd2fb9bc7e6b1db97f61e9a1513"},
+    {file = "kaleido-1.2.0.tar.gz", hash = "sha256:fa621a14423e8effa2895a2526be00af0cf21655be1b74b7e382c171d12e71ef"},
 ]
 
 [package.dependencies]
-choreographer = ">=1.0.10"
+choreographer = ">=1.1.1"
 logistro = ">=1.0.8"
 orjson = ">=3.10.15"
 packaging = "*"
@@ -3306,4 +3306,4 @@ propcache = ">=0.2.0"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "56681cb1f943452874e61f806f39d8815ca0fcc816eec73f2913063d0086ee85"
+content-hash = "e6c99922a5e22ce0bc0f502cb55ae552c4f6876aaf9ca5dab0a78feab9de868b"
