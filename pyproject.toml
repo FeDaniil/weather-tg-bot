@@ -27,7 +27,7 @@ cachetools = "^7.0.3"
 orjson = "^3.11.7"
 alembic = "^1.18.4"
 prometheus-client = "^0.24.1"
-plotly = "^6.5.2"
+plotly = "^6.6.0"
 pandas = "^2.3.3"
 kaleido = "1.2.0"
 
