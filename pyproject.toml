@@ -29,7 +29,7 @@ alembic = "^1.18.4"
 prometheus-client = "^0.25.0"
 plotly = "^6.6.0"
 pandas = "^2.3.3"
-kaleido = "1.2.0"
+kaleido = "1.3.0"
 
 [tool.poetry.group.admin.dependencies]
 gunicorn = ">=25.3,<27.0"
