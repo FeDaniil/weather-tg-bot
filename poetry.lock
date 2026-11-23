@@ -1299,14 +1299,14 @@ i18n = ["Babel (>=2.7)"]
 
 [[package]]
 name = "kaleido"
-version = "1.5.1"
+version = "1.5.2"
 description = "Plotly graph export library"
 optional = false
 python-versions = ">=3.9"
 groups = ["bot"]
 files = [
-    {file = "kaleido-1.5.1-py3-none-any.whl", hash = "sha256:0bd9b5d428362c1bd93ad09992271fb86af59e21b147da9c3691916423874aa0"},
-    {file = "kaleido-1.5.1.tar.gz", hash = "sha256:871b4dd87c716ec7fec414ac62d158575dbb98908ac9bc61faa27cb0dbdd8e72"},
+    {file = "kaleido-1.5.2-py3-none-any.whl", hash = "sha256:758ae0712881f3ecfa7bac10fdd4eff9597f6561d34b4802d6225191cca1bb17"},
+    {file = "kaleido-1.5.2.tar.gz", hash = "sha256:a1231ec1219783d7db2a58aeaccc4bee0783500fed0a5f1fe598fb54fbb67670"},
 ]
 
 [package.dependencies]
@@ -3424,4 +3424,4 @@ propcache = ">=0.2.0"
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "1a0a4c6de4eb707bdac7162a590f3f0d567f270863e7316dad506a575ce44b53"
+content-hash = "9228376abac5c5bc942ae93988d64df8e882f4fafff978089940c0ee71785853"
